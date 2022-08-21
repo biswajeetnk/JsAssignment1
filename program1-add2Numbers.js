@@ -1,0 +1,6 @@
+//add 2 numbers and print result on the console
+function add(a,b)
+{
+    return a+b
+}
+console.log(add(10,90))
